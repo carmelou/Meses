@@ -1,0 +1,7 @@
+C:\Users\OCHO\source\repos\TareaMeses\TareaMeses\obj\Debug\TareaMeses.csprojAssemblyReference.cache
+C:\Users\OCHO\source\repos\TareaMeses\TareaMeses\obj\Debug\TareaMeses.csproj.CoreCompileInputs.cache
+C:\Users\OCHO\source\repos\TareaMeses\TareaMeses\bin\Debug\TareaMeses.exe.config
+C:\Users\OCHO\source\repos\TareaMeses\TareaMeses\bin\Debug\TareaMeses.exe
+C:\Users\OCHO\source\repos\TareaMeses\TareaMeses\bin\Debug\TareaMeses.pdb
+C:\Users\OCHO\source\repos\TareaMeses\TareaMeses\obj\Debug\TareaMeses.exe
+C:\Users\OCHO\source\repos\TareaMeses\TareaMeses\obj\Debug\TareaMeses.pdb
